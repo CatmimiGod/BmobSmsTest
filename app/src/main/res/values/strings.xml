@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BmobSmsTest</string>
+    <string name="title_activity_regist">RegistActivity</string>
+</resources>
